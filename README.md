@@ -1,6 +1,5 @@
 # Project1
 Jatek
-<<<<<<< HEAD
 =======
 Labirintusos játék!
 Végig kell menni a pályán és fel kell venni a pontokat, el kell érni a +-ig.
